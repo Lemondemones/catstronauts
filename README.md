@@ -13,3 +13,11 @@ To get started:
 1. Run `npm start`.
 
 This will open up `localhost:3000` in your web browser.
+
+## :rocket: Result
+
+By using Apollo Client with GraphQL, I learned to efficiently manage data and state in React applications. I explored GraphOS Studio's capabilities for building, testing, and documenting GraphQL queries. Additionally, I utilized Apollo Client's useQuery and useMutation hooks to execute queries and mutations, and applied GraphQL variables for dynamic data handling.
+
+## :zap: Certification
+
+https://www.apollographql.com/tutorials/certifications/8f972026-3479-432d-9fe1-781e25c9a69e
